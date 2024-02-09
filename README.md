@@ -1,4 +1,6 @@
 # Password Generator React App
+![passgen](https://github.com/atulkashyap404/React-Projects-2.0/assets/69070345/9d28366a-84ac-4707-b952-81eb75bd46c8)
+
 
 ## Overview
 
